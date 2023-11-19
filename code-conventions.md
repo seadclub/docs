@@ -1,4 +1,4 @@
-# SEAD Club | Code Conventions
+# Code Conventions
 
 > The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
@@ -25,9 +25,9 @@ If estimation exceeds 2 weeks, an issue MUST be split into smaller ones.
 
 ## Branch rules
 
-- A master branch name MUST be `master`.
-- A master branch name MUST be protected.
-- A master branch name MUST NOT be force pushed.
+- A main branch name MUST be `main`.
+- A main branch name MUST be protected.
+- A main branch name MUST NOT be force pushed.
 - A new branch MUST be created for each issue or feature.
 - A new branch name MUST follow the next pattern `<type>/PR-NUMBER/optional-info`, where `<type>` is from [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) standard.
 
