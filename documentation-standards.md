@@ -1,4 +1,4 @@
-# Software Engineering and Development Club Documentation Standards
+# Documentation Standards
 
 Welcome to the Software Engineering and Development Club's documentation standards! This document outlines guidelines on how to document code, projects, and processes effectively. Clear and comprehensive documentation is crucial for the understanding and future maintenance of our projects.
 
