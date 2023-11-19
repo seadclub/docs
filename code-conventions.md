@@ -85,6 +85,3 @@ If estimation exceeds 2 weeks, an issue MUST be split into smaller ones.
 - **Accessibility and Internationalization:** If applicable, include guidelines for making your software accessible and supporting internationalization (i18n) and localization (l10n).
 - **Performance:** Address performance considerations. Provide guidance on optimizing code and using profiling tools.
 - **Community Guidelines:** If your project involves an open-source community, include guidelines for community contributions, issue reporting, and code of conduct.
-
-Remember to tailor these guidelines based on the specific needs and characteristics of your project. It's also a good practice to revisit and update the code conventions document as the project evolves.
-
