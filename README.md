@@ -1,4 +1,4 @@
-# SEAD CLub Documentation
+# SEAD CLub's Documentation
 
 Welcome to the Software Engineering and Development Club's documentation repository! This repository contains essential documents, guidelines, and resources to help club members follow best practices and contribute effectively to our projects.
 
@@ -33,6 +33,6 @@ Learn how to contribute to club projects by reading [contributing.md](contributi
 
 ## 6. Code of Conduct
 
-Here you can find [code-of-conduct.md](code-of-conduct.md)guidelines or rules that outline the expected behavior and principles for individuals participating in a particular community, organization, or project. It serves as a framework for fostering a positive, inclusive, and respectful environment where all members can collaborate and interact with one another.
+Here you can find [code-of-conduct.md](code-of-conduct.md) guidelines or rules that outline the expected behavior and principles for individuals participating in a particular community, organization, or project. It serves as a framework for fostering a positive, inclusive, and respectful environment where all members can collaborate and interact with one another.
 
-Feel free to reach out to the club administrators or open an issue if you have suggestions or improvements for any of the documents in this repository. Happy coding!
+Feel free to reach out to the club administrators or open an issue if you have suggestions or improvements for any of the documents in this repository.
