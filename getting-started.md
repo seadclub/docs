@@ -1,19 +1,18 @@
-# Getting Started with Software Engineering and Development Club
+# Getting Started
 
 Welcome to the Software Engineering and Development Club! This guide will help you kickstart your journey with us, providing essential steps to set up your development environment, navigate our projects, and connect with the community.
 
 ## Table of Contents
 
-1. [Familiarizing Yourself with Git](#familiarizing-yourself-with-git)
-2. [Setting Up Your Development Environment](#setting-up-your-development-environment)
-3. [Exploring Club Projects](#exploring-club-projects)
-4. [Getting Help](#getting-help)
+1. [Setting Up Your Development Environment](#setting-up-your-development-environment)
+2. [Exploring Club Projects](#exploring-club-projects)
+3. [Getting Help](#getting-help)
 
 ## 1. Setting Up Your Development Environment
 
 Before diving into our projects, ensure your development environment is properly configured. Here's a general setup guide:
 
-- **Code Editor:** Install a code editor of your choice, such as Vim or Emacs or whatever you prefer :).
+- **Code Editor:** Install a code editor of your choice, such as Neovim/Vim or Emacs or whatever you prefer :)
 - **Version Control:** Set up a version control system, Git, on your machine.
 - **Language Runtime/SDK:** Install the necessary programming language runtime or SDK for the projects you'll be working on.
 - **Project-Specific Setup:** Review project-specific setup instructions in the README.md file of the respective projects.
