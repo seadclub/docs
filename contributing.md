@@ -18,23 +18,22 @@ Welcome to the Software Engineering and Development Club! We appreciate your int
 
 Contributing to our projects is easy! Follow these steps to get started:
 
-- Fork the repository.
+- Fork or clone the repository.
 - Create a new branch for your feature or bug fix.
 - Make your changes and commit them with clear and concise messages.
 - Push your changes to your branch.
 - Submit a pull request, explaining the changes you made.
 
-[More about code conventions](#code-conventions.md)
+[More about code conventions](code-conventions.md)
 
 ## 2. Code of Conduct
 
-Please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and inclusive environment for everyone.
+Please review and adhere to our [Code of Conduct](code-of-conduct.md) to ensure a positive and inclusive environment for everyone.
 
 ## 3. Reporting Bugs
 
 If you encounter a bug, open an issue following these guidelines:
 
-- Use the provided issue templates.
 - Include a detailed description of the bug and steps to reproduce it.
 - Attach relevant screenshots or error messages (not nessesary, but often can be helpful).
 
@@ -42,7 +41,6 @@ If you encounter a bug, open an issue following these guidelines:
 
 Have a great idea for an enhancement? Follow these steps:
 
-- Use the enhancement template.
 - Clearly describe the proposed enhancement.
 - Provide any additional context or examples.
 
@@ -75,8 +73,8 @@ All contributions go through a review process:
 
 ## 8. Code of Conduct Enforcement
 
-We take our Code of Conduct seriously. Any violations should be reported to [kenjitheman@gmail.com]. All reports will be kept confidential.
+We take our Code of Conduct seriously. Any violations should be reported to [kenjith3man@gmail.com]. All reports will be kept confidential.
 
 ## 9. Attribution
 
-Thank you for contributing to the Software Engineering and Development Club! Your efforts help us build a thriving and collaborative community.
+Thank you for contributing to the SEAD Club! Your efforts help us build a thriving and collaborative community.
