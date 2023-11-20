@@ -25,9 +25,9 @@ If estimation exceeds 2 weeks, an issue MUST be split into smaller ones.
 
 ## Branch rules
 
-- A main branch name MUST be `main`.
-- A main branch name MUST be protected.
-- A main branch name MUST NOT be force pushed.
+- A main branch name MUST be `master`.
+- A master branch name MUST be protected.
+- A master branch name MUST NOT be force pushed.
 - A new branch MUST be created for each issue or feature.
 - A new branch name MUST follow the next pattern `<type>/PR-NUMBER/optional-info`, where `<type>` is from [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) standard.
 
@@ -36,7 +36,7 @@ If estimation exceeds 2 weeks, an issue MUST be split into smaller ones.
   > - feat/#883/hatsune-miku-the-real-one
   > - docs/#1/me-and-waifu
 
-## Commit rules
+## Commit rmaster
 
 - A commit message MUST follow [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) standard.
 - A commit message MUST contain the pull request number (e.g., #54) in a scope.
