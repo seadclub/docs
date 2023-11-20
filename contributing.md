@@ -57,7 +57,7 @@ When contributing code, follow these guidelines:
 
 Follow these steps when submitting a pull request:
 
-- Ensure your branch is up-to-date with the latest changes from the main branch.
+- Ensure your branch is up-to-date with the latest changes from the master branch.
 - Include relevant tests for your changes.
 - Update the documentation if necessary.
 - Ensure your code passes all automated checks.
