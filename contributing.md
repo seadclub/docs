@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Welcome to the Software Engineering and Development Club! We appreciate your interest in contributing to our projects. By following these guidelines, you can help us maintain a collaborative and inclusive community.
+By following these guidelines, you can help us maintain a collaborative and inclusive community.
 
 ## Table of Contents
 
