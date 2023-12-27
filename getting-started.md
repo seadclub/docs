@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to the Software Engineering and Development Club! This guide will help you kickstart your journey with us, providing essential steps to set up your development environment, navigate our projects, and connect with the community.
+This guide will help you kickstart your journey with us, providing essential steps to set up your development environment, navigate our projects, and connect with the community.
 
 ## Table of Contents
 
