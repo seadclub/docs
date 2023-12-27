@@ -1,6 +1,6 @@
 # Project Guidelines
 
-Welcome to the Software Engineering and Development Club's project guidelines! This document outlines the guidelines and processes to be followed when initiating, managing, and contributing to projects within the club.
+This document outlines the guidelines and processes to be followed when initiating, managing, and contributing to projects within the club.
 
 ## Table of Contents
 
