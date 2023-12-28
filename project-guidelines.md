@@ -32,7 +32,6 @@ Collaboration is key to successful project development. Follow these collaborati
 - **Communication:** Use project communication channels for discussions.
 - **Issues:** Create and track tasks using GitHub Issues.
 - **Code Reviews:** Conduct thorough code reviews for each pull request.
-- **Meetings:** Schedule regular team meetings to discuss progress and roadblocks.
 
 ## Contributing to Project Guidelines
 
